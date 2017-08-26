@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no">
-    <title>Hoja de Vida-David Cano</title>
-  </head>
-  <header>
-<!--1.logo SVG utilizar herramientas en línea para diseñar el logo con tus iniciales, utiliza los colores y formas que prefieras-->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
@@ -4899,45 +4890,3 @@ k+jU/wBPXWn/AP6tNKb/ALj5b/TWT6dD9VHz+GlGh8fvptPjX/j1r//Z
        y="90.624992" />
   </g>
 </svg>
-  </header>
-  <body>
-    <!--2.Titulo-->
-    <h1>Hoja de Vida</h1>
-    <!--3.Datos personales-->
-    <h2>Datos Personales:</h2>
-    <h3>
-      <br>Nombre: David Eduardo Cano Amores
-      <br>Fecha de Nacimiento:07/02/1991
-      <br>Pais: Panamá
-  </h3>
-<!--4.Enlaces de menú basico para enlazar las 3 páginas: Inicio (index.html), Educación(educación.html), Experiencia (experiencia.html)-->
-<ul>
-<li><a href="index.html">Inicio</a></li>
-<li><a href="educacion.html">Educación</a></li>
-<li><a href="experiencia.html">Experiencia</a></li>
-</ul>
-  <h2><strong>Información Personal</strong></h2>
-<!--5.Agregar foto-->
-<div>
-<p>
-<img src="Imagenes/Saco.jpg" alt="David" title="David" width="200" height="300">
-</p>
-</div>
-<!--6.Perfil redacta un parráfo y describe habilidades y destrezas que te definen como un exitoso profesional en tu área de conocimiento y agrega una lista no numerada (viñetas) con los idiomas que comprendes, hablas y escribes.-->
-<article>
-<h3>Pérfil Profesional:</h3>
-<ul>
-  <li> Corredor de Seguros</li>
-</ul>
-<br>
-<h3>Idiomas que manejo:</h3>
-<ul>
-  <li>Ingles(intermedio)</li>
-</ul>
-</article>
-  </body>
-  <footer>
-<!--7.Pie de Página en esta sección debes colocar información de contacto como: correo eléctrónico, teléfono, redes sociales o dirección.-->
-<p>davidcano79@gmail.com <br>tel.: +507 62440078</p>
-  </footer>
-</html>
